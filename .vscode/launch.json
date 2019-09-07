@@ -1,0 +1,67 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DatagramTimeClient",
+            "request": "launch",
+            "mainClass": "edu.eci.taller3.DatagramTimeClient",
+            "projectName": "laboratorio2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DatagramTimeServer",
+            "request": "launch",
+            "mainClass": "edu.eci.taller3.DatagramTimeServer",
+            "projectName": "laboratorio2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HttpServer",
+            "request": "launch",
+            "mainClass": "edu.eci.taller3.HttpServer",
+            "projectName": "laboratorio2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HttpServer",
+            "request": "launch",
+            "mainClass": "web.HttpServer",
+            "projectName": "laboratorio2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ejercicio3ClienteCuadrado",
+            "request": "launch",
+            "mainClass": "edu.eci.taller3.Ejercicio3ClienteCuadrado",
+            "projectName": "laboratorio2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ejercicio3ServidorCuadrado",
+            "request": "launch",
+            "mainClass": "edu.eci.taller3.Ejercicio3ServidorCuadrado",
+            "projectName": "laboratorio2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ejercicio2",
+            "request": "launch",
+            "mainClass": "edu.eci.taller3.Ejercicio2",
+            "projectName": "laboratorio2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ejercicio1",
+            "request": "launch",
+            "mainClass": "edu.eci.taller3.Ejercicio1",
+            "projectName": "laboratorio2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - punto1",
+            "request": "launch",
+            "mainClass": "edu.eci.taller3.punto1",
+            "projectName": "laboratorio2"
+        }
+    ]
+}
